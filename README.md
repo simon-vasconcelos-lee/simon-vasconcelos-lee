@@ -11,3 +11,5 @@ French-Portuguese entrepreneur based in Madagascar. I build companies and digita
 Trilingual 🇫🇷 🇬🇧 🇵🇹 · also known as Simon Lee.
 
 🔗 **More about me → [simonvasconceloslee.com](https://simonvasconceloslee.com/)**
+
+<!-- profil -->
