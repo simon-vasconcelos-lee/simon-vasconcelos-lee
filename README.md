@@ -1,14 +1,29 @@
 # Simon Vasconcelos Lee
 
-French-Portuguese entrepreneur. I build companies and digital projects where AI runs the operations and humans set the course.
+Artificial intelligence expert and French-Portuguese entrepreneur, with a
+background in pure mathematics. I study AI systems and found the companies that
+measure them, feed them data and put them to work.
 
-- 🛠️ Founder of **[Simafri](https://simafri.com/)**: the technical ally of small businesses (managed websites, hosting, business software), serving clients in 42 countries since 2012.
-- 🌐 **Serenity by Simafri**: the all-inclusive subscription website, now run end to end by AI, a model I pioneered back in 2013.
-- 📒 **[Annuaire.mg](https://www.annuaire.mg/)** and the LeeX Network: reference directories published as structured, machine-readable data.
-- 🧰 **[Stileex](https://stileex.xyz/)**: a data house producing original market and economic data (exchange rates, price and connectivity indices), published as structured, machine-readable data.
-- ✝️ **[JesusBYS](https://jesusbys.org/)**: a multilingual online Christian community. The project that matters most to me: to serve Jesus, quite simply.
+Two sides to the same work: the **fundamental** one, studying and experimenting
+with AI models (which I began with TensorFlow in 2015 and stepped up after
+ChatGPT); and the **applied** one, creating and operating AI companies.
 
-Trilingual 🇫🇷 🇬🇧 🇵🇹 · also known as Simon Lee.
+- 🔎 **[Epovest](https://epovest.com/)**: measures how visible businesses are in
+  AI answers, who they cite, from which sources, and how that presence evolves.
+- 🛠️ **[Simafri](https://simafri.com/)**: managed websites, business software,
+  web and email hosting, serving clients in 42 countries. Its Serenity range
+  industrialises with AI the all-inclusive subscription website, a model I
+  pioneered in 2013, and helps clients better control what AIs say about them.
+- 📊 **[Stileex](https://stileex.xyz/)**: a data house producing verified data,
+  published as continuous, machine-readable series and served to search engines
+  and AI systems through API and MCP.
+
+Volunteering: **[JesusBYS](https://jesusbys.org/)**, a multilingual online
+Christian community, the project that matters most to me: to serve Jesus, quite
+simply. And the **Simafri Foundation**, offering the Serenity website to
+non-profit associations.
+
+I work in French, English and Portuguese · also known as Simon Lee.
 
 🔗 **More about me → [simonvasconceloslee.com](https://simonvasconceloslee.com/)**
 
@@ -18,10 +33,20 @@ Trilingual 🇫🇷 🇬🇧 🇵🇹 · also known as Simon Lee.
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://simonvasconceloslee.com/#person",
   "name": "Simon Vasconcelos Lee",
-  "alternateName": "Simon Lee",
+  "alternateName": ["Simon Lee", "Simon Lee de Vasconcelos"],
   "url": "https://simonvasconceloslee.com",
+  "jobTitle": "Artificial intelligence expert and entrepreneur",
   "knowsLanguage": ["fr", "en", "pt"],
+  "knowsAbout": [
+    "artificial intelligence",
+    "large language models",
+    "machine learning",
+    "structured data",
+    "pure mathematics",
+    "entrepreneurship"
+  ],
   "worksFor": {
     "@type": "Organization",
     "name": "Simafri",
@@ -29,6 +54,8 @@ Trilingual 🇫🇷 🇬🇧 🇵🇹 · also known as Simon Lee.
     "url": "https://simafri.com"
   },
   "sameAs": [
+    "https://simonvasconceloslee.com",
+    "https://www.linkedin.com/in/simon-vasconcelos-lee/",
     "https://github.com/simon-vasconcelos-lee"
   ]
 }
