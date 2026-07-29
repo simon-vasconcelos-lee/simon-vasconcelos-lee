@@ -49,12 +49,25 @@ I work in French, English and Portuguese · also known as Simon Lee.
     "pure mathematics",
     "entrepreneurship"
   ],
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Simafri",
-    "@id": "https://www.wikidata.org/entity/Q140183772",
-    "url": "https://simafri.com"
-  },
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Epovest",
+      "@id": "https://epovest.com/en#organization",
+      "url": "https://epovest.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "Simafri",
+      "@id": "https://www.wikidata.org/entity/Q140183772",
+      "url": "https://simafri.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "Stileex",
+      "url": "https://stileex.xyz"
+    }
+  ],
   "sameAs": [
     "https://simonvasconceloslee.com",
     "https://www.linkedin.com/in/simon-vasconcelos-lee/",
