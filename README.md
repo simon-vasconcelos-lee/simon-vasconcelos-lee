@@ -9,7 +9,10 @@ with AI models (which I began with TensorFlow in 2015 and stepped up after
 ChatGPT); and the **applied** one, creating and operating AI companies.
 
 - 🔎 **[Epovest](https://epovest.com/)**: With Epovest, businesses make AIs
-  recommend them.
+  recommend them. From the questions their customers ask to the sources that
+  shape the answers, everything is measured, dated and verifiable. And
+  everything leads to action: where to appear, what to fix, and proof of what
+  changed.
 - 🛠️ **[Simafri](https://simafri.com/)**: managed websites, business software,
   web and email hosting, serving clients in 42 countries. Its Serenity range
   industrialises with AI the all-inclusive subscription website, a model I
