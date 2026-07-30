@@ -8,8 +8,8 @@ Two sides to the same work: the **fundamental** one, studying and experimenting
 with AI models (which I began with TensorFlow in 2015 and stepped up after
 ChatGPT); and the **applied** one, creating and operating AI companies.
 
-- 🔎 **[Epovest](https://epovest.com/)**: measures how visible businesses are in
-  AI answers, who they cite, from which sources, and how that presence evolves.
+- 🔎 **[Epovest](https://epovest.com/)**: With Epovest, businesses make AIs
+  recommend them.
 - 🛠️ **[Simafri](https://simafri.com/)**: managed websites, business software,
   web and email hosting, serving clients in 42 countries. Its Serenity range
   industrialises with AI the all-inclusive subscription website, a model I
